@@ -1,4 +1,4 @@
-***The proposed housing management app connects PG owners with users seeking flexible and well-suited accommodations. PG owners can advertise their spaces, while users can easily search for housing based on location and preferences. The app emphasizes flexibility in transactions, rent, and amenities, providing a convenient solution for managing housing needs***
+<!-- The proposed housing management app connects PG owners with users seeking flexible and well-suited accommodations. PG owners can advertise their spaces, while users can easily search for housing based on location and preferences. The app emphasizes flexibility in transactions, rent, and amenities, providing a convenient solution for managing housing needs -->
 
 
 
